@@ -1,0 +1,12 @@
+pandas
+numpy
+jupyter
+pymongo
+requests
+arcgis
+matplotlib
+scipy
+scikit-learn
+notebook
+ipykernel
+ipywidgets
