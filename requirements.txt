@@ -10,3 +10,6 @@ scikit-learn
 notebook
 ipykernel
 ipywidgets
+requests_cache
+retry
+openpyxl
