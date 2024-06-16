@@ -11,9 +11,6 @@ __pycache__/
 env/
 venv/
 ENV/
-env.bak/
-venv.bak/
-*.egg
 *.egg-info/
 dist/
 build/
@@ -61,7 +58,7 @@ dmypy.json
 data/db/
 *.lock
 mongod.lock
-journal
+journal/
 
 # ArcGIS specific files
 *.mxd
@@ -80,5 +77,6 @@ journal
 # Ignore SQLite database files
 *.sqlite3
 
-# Ignore the scripts directory for distribution purposes
+# Ignore scripts directory for distribution purposes
+# Remove the following line if scripts are part of your version control
 /scripts/
