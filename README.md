@@ -79,8 +79,14 @@ players_data.csv: CSV file with aggregated statistics of players meeting the spe
 API Requests for Additional Data
 The update_and_import.py script integrates API requests to gather the following information for cities involved in player movements:
 
+update_city_state.py to add state abbreviations
 Annual Temperature: Retrieves annual average temperature data for the cities.
-Cost of Living: Fetches cost of living indices for comparing living expenses between cities.
+annual_temperature_lookup.py searches open-meteo for average temperature of the cities and their given years
+finish_temperature.py 
+Cost of Living: Fetches cost of living indices for comparing living expenses between states.
+insert_pci_data.py - collects per capita income (PCI) for all US states and adds to MongoDB
+insert_toronto_pci.py - collects PCI for Toronto to add to MongoDB
+update_pci_data.py - updates the player_movements collection with PCI for the states in the player documents
 Tax Rate: Obtains tax rate information to understand financial implications.
 Script Details
 The script performs the following tasks:
