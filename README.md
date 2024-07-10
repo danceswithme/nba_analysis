@@ -6,10 +6,15 @@ This project involves analyzing NBA player data, converting city names to geogra
 
 nba_analysis/
 ├── data/
+
 │ └── Players that fit Query - Final List.csv
+
 ├── scripts/
+
 │ └── update_and_import.py
+
 ├── venv/
+
 ├── README.md
 
 
@@ -107,13 +112,3 @@ Feel free to submit issues or pull requests if you have any improvements or fixe
 
 License
 This project is licensed under the MIT License.
-
-
-### Summary
-
-- **API Requests**: Describes the integration of API requests for obtaining annual temperature, cost of living, and tax rate data for cities.
-- **Setup Instructions**: Provides detailed steps for setting up the environment, installing dependencies, and running the script.
-- **Project Structure**: Illustrates the directory structure of the project.
-- **Script Details**: Explains the functionalities of the `update_and_import.py` script, including data retrieval and storage.
-
-By following these instructions, users can understand how to set up, run, and utilize the NBA data analysis project, including the integration of API requests for additional city-related data.
