@@ -1,0 +1,243 @@
+{"_id":{"$oid":"666e8584905cb779f320435f"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204360"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204361"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204362"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204363"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204364"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204365"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204366"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204367"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204368"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204369"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320436a"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320436b"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320436c"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320436d"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320436e"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320436f"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204370"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204371"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204372"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204373"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204374"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204375"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204376"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204377"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204378"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204379"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320437a"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320437b"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320437c"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320437d"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320437e"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320437f"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204380"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204381"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204382"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204383"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204384"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204385"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204386"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204387"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204388"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204389"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320438a"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320438b"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320438c"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320438d"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320438e"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320438f"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204390"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204391"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204392"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204393"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204394"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204395"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204396"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204397"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204398"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204399"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320439a"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320439b"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320439c"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320439d"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320439e"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320439f"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043a0"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043a1"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043a2"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043a3"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043a4"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043a5"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043a6"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043a7"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043a8"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043a9"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043aa"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043ab"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043ac"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043ad"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043ae"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043af"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b0"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b1"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043b2"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043b3"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b4"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043b5"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b6"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b7"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b8"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043b9"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043ba"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043bb"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043bc"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043bd"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043be"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043bf"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043c0"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043c1"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043c2"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043c3"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043c4"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043c5"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043c6"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043c7"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043c8"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043c9"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043ca"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043cb"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043cc"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043cd"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043ce"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043cf"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043d0"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043d1"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043d2"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043d3"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043d4"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043d5"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043d6"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043d7"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043d8"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043d9"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043da"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043db"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043dc"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043dd"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043de"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043df"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043e0"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043e1"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043e2"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043e3"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043e4"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043e5"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043e6"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043e7"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043e8"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043e9"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043ea"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043eb"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043ec"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043ed"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043ee"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043ef"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043f0"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043f1"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043f2"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043f3"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043f4"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043f5"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043f6"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f32043f7"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043f8"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043f9"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f32043fa"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043fb"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043fc"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043fd"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f32043fe"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f32043ff"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204400"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204401"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204402"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204403"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204404"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204405"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204406"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204407"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204408"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204409"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320440a"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320440b"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320440c"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320440d"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320440e"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320440f"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204410"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204411"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204412"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204413"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204414"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204415"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204416"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204417"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204418"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204419"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320441a"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320441b"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320441c"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320441d"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320441e"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320441f"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204420"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204421"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204422"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204423"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f3204424"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f3204425"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204426"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204427"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204428"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204429"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320442a"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f320442b"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320442c"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"666e8584905cb779f320442d"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"666e8584905cb779f320442e"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f320442f"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204430"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"666e8584905cb779f3204431"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"666e8584905cb779f3204432"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c225"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c226"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c227"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"667c0f1db950b369da69c228"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c229"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c22a"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"667c0f1db950b369da69c22b"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c22c"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c22d"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"667c0f1db950b369da69c22e"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c22f"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"667c0f1db950b369da69c230"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"667c0f1db950b369da69c231"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c232"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"667c0f1db950b369da69c233"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c234"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"667c0f1db950b369da69c235"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c236"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"667c0f1db950b369da69c237"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"667c0f1db950b369da69c238"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"667c0f1db950b369da69c239"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c23a"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c23b"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
+{"_id":{"$oid":"667c0f1db950b369da69c23c"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c23d"},"new_state_tier_year1":"Moderate","new_state_tier_year2":"Moderate","prev_state_tier_year1":"Moderate","prev_state_tier_year2":"Moderate"}
+{"_id":{"$oid":"667c0f1db950b369da69c23e"},"new_state_tier_year1":"No Tax","new_state_tier_year2":"No Tax","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c23f"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c240"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"No Tax","prev_state_tier_year2":"No Tax"}
+{"_id":{"$oid":"667c0f1db950b369da69c241"},"new_state_tier_year1":"Low","new_state_tier_year2":"Low","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c242"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"High","prev_state_tier_year2":"High"}
+{"_id":{"$oid":"667c0f1db950b369da69c243"},"new_state_tier_year1":"High","new_state_tier_year2":"High","prev_state_tier_year1":"Low","prev_state_tier_year2":"Low"}
