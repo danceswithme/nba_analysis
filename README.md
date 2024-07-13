@@ -85,6 +85,15 @@ results/player_movements.json: JSON file containing player movements data.
 results/player_movements_tax.json: JSON file containing player movements with tax data.
 results/player_movements_pci.json: JSON file containing player movements with PCI data.
 results/player_movements_temp.json: JSON file containing temporary player movements data.
+<<<<<<< HEAD
+=======
+
+## Dependencies
+Python 3.x
+pymongo
+MongoDB
+QGIS
+>>>>>>> 9539e1d785a6f6ea2ee2d10d9e25dcdcc7469fb2
 
 ## Getting Started
 
@@ -151,6 +160,7 @@ Ensure that the Excel file is named Players that fit Query.xls and the sheet is 
 Make sure the CSV file is named Players that fit Query - Final List.csv.
 Adjust the file paths in the script if your directory structure differs.
 
+<<<<<<< HEAD
 ## Data
 The data files are located in the 'nba_analysis/data' directory.
 
@@ -163,6 +173,8 @@ Jupyter and other notebooks used for data analysis, along with output files are 
 ## Results
 Analysis results are saved in the 'nba_analysis/results' directory.
 
+=======
+>>>>>>> 9539e1d785a6f6ea2ee2d10d9e25dcdcc7469fb2
 ## Contributing 
 Feel free to submit issues or pull requests if you have any improvements or fixes.
 

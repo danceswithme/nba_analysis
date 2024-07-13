@@ -60,11 +60,6 @@ data/db/
 mongod.lock
 journal/
 
-# ArcGIS specific files
-*.mxd
-*.gdb
-*.lyr
-
 # Other files
 *.bak
 *.tmp
@@ -74,8 +69,15 @@ journal/
 *.json
 *.xml
 
+# QGIS
+*.qgs~
+*.qgz~
+
 # Ignore SQLite database files
 *.sqlite3
+
+# Data files
+results/*.json
 
 # Ignore scripts directory for distribution purposes
 # Remove the following line if scripts are part of your version control
