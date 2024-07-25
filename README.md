@@ -10,6 +10,8 @@ nba_analysis/
 
 ├── notebooks/
 
+├── QGIS/
+
 ├── results/
 
 ├── scripts/
@@ -85,7 +87,7 @@ To get started, clone the repository and follow the instructions in each script 
 
 - **Player Movement Data**: Retrieved from basketball-reference.com based on specific criteria lsted in the firsat sheet of players_that_fit_query.xlsx.
 - **Temperature Data**: Retrieved from Open-Meteo.
-- **PCI Data**: Collected from various sources for US states and Toronto.
+- **PCI Data**: Collected from various sources for US States and Ontario. REAP Project for US and StatCan.gc.ca for Ontario.
 - **Tax Rate Data**: Obtained from the Tax Foundation.
 
 ## Dependencies
@@ -141,10 +143,27 @@ Ensure you have these dependencies installed to successfully run the scripts and
 
 ### Graphing
 - **graphing.ipynb**: Generates various bar charts and visualizations to illustrate the data, including PCI, tax tiers, and temperature differences.
+- **trend mapping.ipynb**: Creates trend maps that divides based on time periods.
+- **plotbinnedfreq.ipynb**: Creates frequency bar charts for the most popular destinations and city-to-city movements, divided into different periods.
 
-## Notebooks for Data Analysis
-regression1.ipynb - runs significance tests on JSON files created from the data to see if any variables have a significant difference between previous and new cities or states
-graphing.ipynb - creates bar charts the above data for both differences in previous and new and for dataset to visualize
+### Geographical Mapping
+
+- **QGIS Project**: 
+  - **Purpose**: Maps player movements geographically, displaying paths from former cities to new cities.
+  - **Features**:
+    - **Heatmaps**: Illustrate the popularity of destinations.
+    - **Paths**: Show movements with varying transparency based on frequency.
+    - **Graduated Layers**: Display average temperature, tax rates, and PCI.
+  - **Base Map**: Includes a detailed map of North America.
+  
+- **Instructions**:
+  1. Open the QGIS project file located in the `QGIS` folder.
+  2. Ensure all required layers are loaded and visible.
+  3. Turn on the relevant layers to visualize different aspects of the data (e.g., paths, heatmaps).
+  4. Adjust transparency and other settings as needed to better understand the data.
+
+This section provides users with a clear understanding of what the QGIS project includes and how to use it effectively.
+
 
 ## Notes
 Ensure that the Excel file is named Players that fit Query.xls and the sheet is named Final List.
