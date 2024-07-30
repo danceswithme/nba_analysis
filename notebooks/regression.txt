@@ -1,0 +1,3 @@
+Temperature differences - t-statistic: -0.69962809136618, p-value: 0.48483154381081073
+PCI differences - t-statistic: -0.8894896300814626, p-value: 0.3746653616580382
+Not enough data for tax significance test.
