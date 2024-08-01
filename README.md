@@ -1,6 +1,6 @@
 # NBA Data Analysis
 
-This project involves analyzing NBA player data, converting city names to geographic coordinates, and storing the data in MongoDB. Additionally, it integrates API requests for annual temperature, cost of living, and tax rates for the cities where players have moved.
+Conducted a comprehensive analysis of NBA player movements, examining tax rates, per capita income, and average temperature, including frequency, trend, and regression analyses, comparisons between bins of years, and identifying the most common destinations.
 
 ## Project Structure
 
@@ -11,6 +11,8 @@ nba_analysis/
 ├── notebooks/
 
 ├── QGIS/
+
+├── reports/
 
 ├── results/
 
@@ -180,7 +182,10 @@ The Python script files are located in the 'nba_analysis/scripts' directory.
 Jupyter and other notebooks used for data analysis, along with output files are located in the 'nba_analysis/notebooks' directory.
 
 ## Results
-Analysis results are saved in the 'nba_analysis/results' directory.
+Analysis results are saved in the 'nba_analysis/results' directory
+
+## Reports
+Reports summarizing journal entries along with an academic review of the resarch are in the 'nba_analysis/reports' directory
 
 =======
 
