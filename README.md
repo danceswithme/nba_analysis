@@ -144,7 +144,7 @@ Ensure you have these dependencies installed to successfully run the scripts and
 - **regression1.ipynb**: Performs regression analysis on the dataset to determine the impact of different factors on player movements.
 
 ### Graphing
-- **graphing.ipynb**: Generates various bar charts and visualizations to illustrate the data, including PCI, tax tiers, and temperature differences.
+- **graphing.ipynb**: Generates various bar charts and visualizations to illustrate the data, including PCI, tax tiers, and temperature differences. PCI graphs are incorrectly titled and should be for states and provinces.
 - **trend mapping.ipynb**: Creates trend maps that divides based on time periods.
 - **plotbinnedfreq.ipynb**: Creates frequency bar charts for the most popular destinations and city-to-city movements, divided into different periods.
 
