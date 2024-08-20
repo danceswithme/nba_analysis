@@ -1,0 +1,123 @@
+# NBA Teams and Their Corresponding Cities (Including Historical Teams)
+
+## Atlanta Hawks
+- Atlanta, Georgia: 1968–Present
+- St. Louis, Missouri: 1955–1968
+- Milwaukee, Wisconsin: 1951–1955
+- Tri-Cities (Moline, Illinois, Rock Island, Illinois, and Davenport, Iowa): 1949–1951
+
+## Boston Celtics
+- Boston, Massachusetts: 1946–Present
+
+## Brooklyn Nets
+- Brooklyn, New York: 2012–Present
+- East Rutherford, New Jersey (New Jersey Nets): 1977–2012
+- Piscataway, New Jersey (New Jersey Nets): 1977–1981
+- Uniondale, New York (New York Nets): 1972–1977
+- Teaneck, New Jersey (New Jersey Americans): 1967–1968
+
+## Charlotte Hornets
+- Charlotte, North Carolina: 1988–2002, 2004–Present
+- New Orleans, Louisiana (New Orleans Hornets): 2002–2005 (temporarily in 2005-2007 due to Hurricane Katrina)
+- New Orleans/Oklahoma City Hornets: 2005–2007 (due to Hurricane Katrina)
+
+## Chicago Bulls
+- Chicago, Illinois: 1966–Present
+
+## Cleveland Cavaliers
+- Cleveland, Ohio: 1970–Present
+
+## Dallas Mavericks
+- Dallas, Texas: 1980–Present
+
+## Denver Nuggets
+- Denver, Colorado: 1974–Present (NBA)
+- Denver, Colorado: 1967–1974 (ABA)
+
+## Detroit Pistons
+- Detroit, Michigan: 1957–Present
+- Fort Wayne, Indiana: 1941–1957 (Fort Wayne Zollner Pistons, Fort Wayne Pistons)
+
+## Golden State Warriors
+- San Francisco, California: 2019–Present
+- Oakland, California: 1971–2019
+- San Francisco, California: 1962–1971
+- Philadelphia, Pennsylvania: 1946–1962
+
+## Houston Rockets
+- Houston, Texas: 1971–Present
+- San Diego, California: 1967–1971
+
+## Indiana Pacers
+- Indianapolis, Indiana: 1967–Present (NBA and ABA)
+
+## Los Angeles Clippers
+- Los Angeles, California: 1984–Present
+- San Diego, California: 1978–1984
+- Buffalo, New York (Buffalo Braves): 1970–1978
+
+## Los Angeles Lakers
+- Los Angeles, California: 1960–Present
+- Minneapolis, Minnesota: 1947–1960
+
+## Memphis Grizzlies
+- Memphis, Tennessee: 2001–Present
+- Vancouver, British Columbia (Vancouver Grizzlies): 1995–2001
+
+## Miami Heat
+- Miami, Florida: 1988–Present
+
+## Milwaukee Bucks
+- Milwaukee, Wisconsin: 1968–Present
+
+## Minnesota Timberwolves
+- Minneapolis, Minnesota: 1989–Present
+
+## New Orleans Pelicans
+- New Orleans, Louisiana: 2002–Present
+- Temporarily moved to Oklahoma City, Oklahoma (due to Hurricane Katrina): 2005–2007
+
+## New York Knicks
+- New York City, New York: 1946–Present
+
+## Oklahoma City Thunder
+- Oklahoma City, Oklahoma: 2008–Present
+- Seattle, Washington (Seattle SuperSonics): 1967–2008
+
+## Orlando Magic
+- Orlando, Florida: 1989–Present
+
+## Philadelphia 76ers
+- Philadelphia, Pennsylvania: 1963–Present
+- Syracuse, New York (Syracuse Nationals): 1946–1963
+
+## Phoenix Suns
+- Phoenix, Arizona: 1968–Present
+
+## Portland Trail Blazers
+- Portland, Oregon: 1970–Present
+
+## Sacramento Kings
+- Sacramento, California: 1985–Present
+- Kansas City, Missouri (Kansas City Kings): 1975–1985
+- Omaha, Nebraska (Kansas City-Omaha Kings): 1972–1975
+- Cincinnati, Ohio (Cincinnati Royals): 1957–1972
+- Rochester, New York (Rochester Royals): 1945–1957
+
+## San Antonio Spurs
+- San Antonio, Texas: 1973–Present (NBA)
+- Dallas, Texas (Dallas Chaparrals): 1967–1973 (ABA)
+
+## Toronto Raptors
+- Toronto, Ontario: 1995–Present
+
+## Utah Jazz
+- Salt Lake City, Utah: 1979–Present
+- New Orleans, Louisiana (New Orleans Jazz): 1974–1979
+
+## Washington Wizards
+- Washington, D.C.: 1997–Present
+- Landover, Maryland (Washington Bullets): 1973–1997
+- Baltimore, Maryland (Baltimore Bullets): 1963–1973
+- Chicago, Illinois (Chicago Zephyrs): 1962–1963
+- Chicago, Illinois (Chicago Packers): 1961–1962
