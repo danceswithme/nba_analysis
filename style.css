@@ -38,8 +38,15 @@ footer {
 }
 
 /* Table Styles */
+.table-container {
+    overflow-x: auto; /* Enables horizontal scrolling */
+    width: 100%;
+    margin: 20px 0; /* Add spacing around the table */
+}
+
 table {
     width: 100%;
+    min-width: 800px; /* Ensure the table is wide enough to scroll */
     border-collapse: collapse;
 }
 
@@ -55,4 +62,17 @@ th {
 
 th:hover {
     background-color: #ddd;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    /* On smaller screens, reduce padding for better fit */
+    th, td {
+        padding: 8px;
+    }
+
+    /* Ensure table still scrolls on smaller screens */
+    .table-container {
+        margin: 10px 0;
+    }
 }
