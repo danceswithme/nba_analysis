@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBA Analysis</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        async function loadJSON() {
+            const response = await fetch('results/player_movements_cleaned.json');
+            const data = await response.json();
+            populateTable(data);
+        }
+
+        function populateTable(data) {
+            const tableBody = document.getElementById('data-table-body');
+            tableBody.innerHTML = ''; // Clear existing content
+            data.forEach(player => {
+                const row = `
+                    <tr>
+                        <td>${player.Name}</td>
+                        <td>${player["Former City"]}</td>
+                        <td>${player["New City"]}</td>
+                        <td>${player["Year 1"]}</td>
+                        <td>${player["Year 2"]}</td>
+                    </tr>`;
+                tableBody.innerHTML += row;
+            });
+        }
+
+        // Sorting function
+        function sortTable(column, ascending = true) {
+            const rows = Array.from(document.getElementById('data-table-body').children);
+            rows.sort((a, b) => {
+                const aVal = a.children[column].innerText;
+                const bVal = b.children[column].innerText;
+
+                if (!isNaN(parseFloat(aVal)) && !isNaN(parseFloat(bVal))) {
+                    return ascending
+                        ? parseFloat(aVal) - parseFloat(bVal)
+                        : parseFloat(bVal) - parseFloat(aVal);
+                }
+                return ascending
+                    ? aVal.localeCompare(bVal)
+                    : bVal.localeCompare(aVal);
+            });
+
+            const tableBody = document.getElementById('data-table-body');
+            tableBody.innerHTML = ''; // Clear table body
+            rows.forEach(row => tableBody.appendChild(row)); // Add sorted rows
+        }
+
+        window.onload = loadJSON;
+    </script>
+</head>
+<body>
+    <h1>NBA Analysis Project</h1>
+    <p>Welcome to the NBA Analysis project! Below are the resources:</p>
+    <ul>
+        <li><a href="reports/Final%20Report.pdf" target="_blank">Final Report (Placeholder)</a></li>
+        <li><a href="results/player_movements_cleaned.json" target="_blank">JSON Dataset</a></li>
+        <li><a href="https://github.com/danceswithme/nba_analysis" target="_blank">GitHub Repository</a></li>
+    </ul>
+    <footer>
+        <p>© 2024 NBA Analysis Project</p>
+    </footer>
+
+    <h2>Player Movement Data</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">Name</th>
+                <th onclick="sortTable(1)">Former City</th>
+                <th onclick="sortTable(2)">New City</th>
+                <th onclick="sortTable(3)">Year 1</th>
+                <th onclick="sortTable(4)">Year 2</th>
+            </tr>
+        </thead>
+        <tbody id="data-table-body">
+            <!-- Table rows will be dynamically populated here -->
+        </tbody>
+    </table>
+</body>
+</html>
