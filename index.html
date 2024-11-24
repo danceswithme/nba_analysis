@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NBA Analysis</title>
     <link rel="stylesheet" href="style.css">
+
+    <!-- Include marked.js to parse Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
     <script>
         async function loadJSON() {
             const response = await fetch('results/player_movements_cleaned.json');
@@ -50,17 +54,35 @@
             rows.forEach(row => tableBody.appendChild(row)); // Add sorted rows
         }
 
-        window.onload = loadJSON;
+        // Load README.md content and convert it to HTML
+        async function loadReadme() {
+            const response = await fetch('https://raw.githubusercontent.com/danceswithme/nba_analysis/main/README.md');
+            const markdown = await response.text();
+            const htmlContent = marked(markdown); // Convert markdown to HTML
+            document.getElementById('readme-content').innerHTML = htmlContent; // Inject HTML into the page
+        }
+
+        window.onload = function() {
+            loadJSON();
+            loadReadme(); // Load and display README.md content
+        };
     </script>
 </head>
 <body>
     <h1>NBA Analysis Project</h1>
-    <p>Welcome to the NBA Analysis project! Below are the resources:</p>
+    <p>Hello, my name is Jeremy Dang and I am part of the Big Data Analytics graduate program at San Diego State University. Welcome to my NBA Analysis project! Below are the resources:</p>
     <ul>
         <li><a href="reports/Final%20Report.pdf" target="_blank">Final Report (Placeholder)</a></li>
         <li><a href="results/player_movements_cleaned.json" target="_blank">JSON Dataset</a></li>
         <li><a href="https://github.com/danceswithme/nba_analysis" target="_blank">GitHub Repository</a></li>
     </ul>
+    
+    <h2>Project Overview</h2>
+    <!-- This section will display the README content -->
+    <div id="readme-content">
+        <!-- README content will be dynamically inserted here -->
+    </div>
+
     <footer>
         <p>© 2024 NBA Analysis Project</p>
     </footer>
