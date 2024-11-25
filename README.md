@@ -196,4 +196,4 @@ Feel free to submit issues or pull requests if you have any improvements or fixe
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-A small list of the wonderful resources that aided in this project include MongoDB, basketball-reference.com, taxfoundation.org, REAP Project, open-meteo.com for historical weather API
+A small list of the wonderful resources that aided in this project include MongoDB, basketball-reference.com, taxfoundation.org, REAP Project, open-meteo.com for historical weather API.
